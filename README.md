@@ -1,5 +1,5 @@
 # drowsiness-detector
-# YOLOv8 Drowsiness Detector 😴🚗
+# YOLOv8 Drowsiness Detector 
 
 A real-time drowsiness detection system for drivers using a custom-trained [YOLOv8](https://github.com/ultralytics/ultralytics) model and OpenCV.
 
